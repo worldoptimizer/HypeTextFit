@@ -1,7 +1,7 @@
 	
 /*!
 Hype TextFit 1.0.3
-copyright (c) 2023 Assistant. MIT-license
+copyright (c) 2023 Max Ziebell. MIT-license
 */
 
 /*
