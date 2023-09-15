@@ -31,7 +31,7 @@ This project is released under the MIT License.
 
 ## Documentation
 
-There is a [JSDoc](https://en.wikipedia.org/wiki/JSDoc) based documentation of the functions at https://doxdox.org/worldoptimizer/HypeDataMagic
+There is a [JSDoc](https://en.wikipedia.org/wiki/JSDoc) based documentation of the functions at https://doxdox.org/worldoptimizer/HypeTextFit
 
 Content Delivery Network (CDN)
 --
