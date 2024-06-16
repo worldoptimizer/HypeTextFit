@@ -1,5 +1,10 @@
 # Hype Text Fit
 
+![HypeTextFit|](https://playground.maxziebell.de/Hype/TextFit/HypeTextFit.jpg)
+
+<sup>The cover artwork is not hosted in this repository and &copy;opyrighted by Max Ziebell</sup>
+
+
 Hype Text Fit is a utility for the Hype community that dynamically adjusts the font size of text elements to make sure they fit within their containers. It can seamlessly accommodate different line heights and even integrate multiple font sizes within the same fit.
 
 The tool offers flexibility, being designed not only for the core purpose of fitting text but also potential applications in localization and other template systems utilizing Hype Reactive Content.
