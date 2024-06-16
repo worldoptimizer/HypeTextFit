@@ -58,10 +58,6 @@ Feedback is invaluable in refining this utility further. The developer community
 
 This project is released under the MIT License.
 
-## Documentation
-
-There is a [JSDoc](https://en.wikipedia.org/wiki/JSDoc) based documentation of the functions at [doxdox.org](https://doxdox.org/worldoptimizer/HypeTextFit).
-
 ## Content Delivery Network (CDN)
 
 The latest version can be linked into your project using the following in the head section of your project:
